@@ -6,7 +6,7 @@ public class SmokingTryper {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		//in master
+		//in master again
 	}
 
 }
